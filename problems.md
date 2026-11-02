@@ -25,5 +25,16 @@ So whenever i make an entry, i should be able to categorise into these 5 tickets
 - Speed: logging an expense takes 10 seconds or less.
 
 ## Open questions
-- How do we track money today?
-- What is "the target"?
+## Answers to open questions
+- Today: no tracking. Baseline will be built by manual logging
+  from Day 2 to Day 21.
+- Target (draft): follow 50/30/20 as a starting default, mapped to
+  Necessary / EMI / Investment / Leisure / Avoidable. Adjust after
+  3 weeks of real data. Targets are configurable.
+
+## Category definitions
+- Necessary: Rent, house help, cook, maid, grocery
+- EMI: Education loan, PL, insurance
+- Investment: SIPs, 1 time investement
+- Leisure: planned and I'd do it again.
+- Avoidable: unplanned or regretted.
